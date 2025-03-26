@@ -1,1 +1,1 @@
-Sitemap: https://author72.github.io/SUSTechRobocon2025/sitemap.xml
+Sitemap: https://author72.github.io/SUSTechRC_Website/sitemap.xml
